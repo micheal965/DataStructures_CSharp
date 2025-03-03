@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|c:\\users\\micheal\\source\\repos\\datastructures\\datastructures\\linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|c:\\users\\micheal\\source\\repos\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|c:\\users\\micheal\\source\\repos\\datastructures\\datastructures\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\doublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|c:\\users\\micheal\\source\\repos\\datastructures\\datastructures\\doublylinkedlist\\dnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\doublylinkedlist\\dnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|c:\\users\\micheal\\source\\repos\\datastructures\\datastructures\\circularlinkedlist\\circularlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\circularlinkedlist\\circularlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|c:\\users\\micheal\\source\\repos\\datastructures\\datastructures\\circularlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1961681-1ED4-400B-AA3C-88E4C33620DD}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\circularlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 14,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,27 +51,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\Program.cs",
-              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\Program.cs",
-              "RelativeToolTip": "DataStructures\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\DoublyLinkedList\\DoublyLinkedList.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:02:15.103Z",
+              "WhenOpened": "2025-03-03T18:10:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DNode.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\DoublyLinkedList\\DNode.cs",
+              "RelativeDocumentMoniker": "DataStructures\\DoublyLinkedList\\DNode.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\DoublyLinkedList\\DNode.cs",
+              "RelativeToolTip": "DataStructures\\DoublyLinkedList\\DNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:09:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircularLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\CircularLinkedList\\CircularLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\CircularLinkedList\\CircularLinkedList.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\CircularLinkedList\\CircularLinkedList.cs",
+              "RelativeToolTip": "DataStructures\\CircularLinkedList\\CircularLinkedList.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:43:20.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\CircularLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "DataStructures\\CircularLinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\CircularLinkedList\\Node.cs",
+              "RelativeToolTip": "DataStructures\\CircularLinkedList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:42:54.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\LinkedList.cs",
-              "RelativeDocumentMoniker": "DataStructures\\LinkedList\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\LinkedList\\LinkedList.cs",
-              "RelativeToolTip": "DataStructures\\LinkedList\\LinkedList.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeToolTip": "DataStructures\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwFkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T19:36:52.774Z",
+              "WhenOpened": "2025-03-02T20:02:15.103Z",
               "EditorCaption": ""
             }
           ]

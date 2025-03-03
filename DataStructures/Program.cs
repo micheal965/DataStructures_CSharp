@@ -77,15 +77,42 @@ namespace DataStructures
             // queue.PrintQueue(); // 20 -> 30
             #endregion
             #region LinkedList
-            LinkedList.LinkedList list = new LinkedList.LinkedList();
-            list.InsertAtEnd(10);
+            //LinkedList.LinkedList list = new LinkedList.LinkedList();
+            //list.InsertAtEnd(10);
+            //list.InsertAtEnd(20);
+            //list.InsertAtEnd(30);
+            //list.InsertAtBeginning(5);
+            //list.Display(); // Output: 5 -> 10 -> 20 -> 30 
+
+            //list.Delete(20);
+            //list.Display(); // Output: 5 -> 10 -> 30 
+            #endregion
+            #region CircularLinkedList
+            //CircularLinkedList.CircularLinkedList list = new CircularLinkedList.CircularLinkedList();
+            //list.InsertAtEnd(10);
+            //list.InsertAtEnd(20);
+            //list.InsertAtEnd(30);
+            //list.InsertAtBeginning(5);
+            //list.Display(); // Output: 5 -> 10 -> 20 -> 30 
+            #endregion
+            #region DoublyLinkedList
+            DoublyLinkedList.DoublyLinkedList list = new DoublyLinkedList.DoublyLinkedList();
+
+            list.InsertAtEnd(15);
             list.InsertAtEnd(20);
             list.InsertAtEnd(30);
             list.InsertAtBeginning(5);
-            list.Display(); // Output: 5 -> 10 -> 20 -> 30 
+            list.InsertAtPosition(10, 2);
 
-            list.Delete(20);
-            list.Display(); // Output: 5 -> 10 -> 30 
+            Console.WriteLine("Forward:");
+            list.DisplayForward(); // Output: 5 <-> 10 <-> 15 <-> 20 <-> 30 
+
+            Console.WriteLine("Backward:");
+            list.DisplayBackward(); // Output: 30 <-> 20 <-> 15 <-> 10 <-> 5 
+
+            list.Delete(15);
+            Console.WriteLine("After Deleting 15:");
+            list.DisplayForward(); // Output: 5 <-> 10 <-> 20 <-> 30
             #endregion
         }
     }
